@@ -8,6 +8,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
+    "boom": "^7.1.1",
     "bootstrap": "^4.0.0",
     "gatsby": "^1.9.158",
     "gatsby-link": "^1.6.34",
